@@ -1,6 +1,7 @@
 @font-face {
   font-family: 'Buffalo';
-  src: url('https://static1.squarespace.com/static/63a02b86f06eeb1717d28dfe/t/65eec4705659e417e06ad7b0/1710146672622/Buffalo.otf') format('opentype');
+  src: url('https://jenifertaft.github.io/buffalo-font/Buffalo.woff2') format('woff2'),
+       url('https://jenifertaft.github.io/buffalo-font/Buffalo.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
